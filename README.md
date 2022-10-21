@@ -1,6 +1,10 @@
 # node-libeth
 Node bindings for generating Ethash Epoch context and light cache
 
+Thanks to Paweł Bylica @chfast for original implementation. 
+
+Original implementation [here](https://github.com/chfast/ethash)
+
 Usage
 
 ```
