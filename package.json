@@ -1,0 +1,14 @@
+{
+  "name": "libeth",
+  "version": "1.0.0",
+  "description": "Ethereum Mining - Node library for Generating Epoch Context and Light cache",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Karhick S. (yuvikarti@gmail.com)",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "bindings": "^1.5.0",
+    "nan": "^2.15.0"
+  }
+}
