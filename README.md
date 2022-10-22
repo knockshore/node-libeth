@@ -9,7 +9,7 @@ Usage
 
 ```
 // arg1: epoch generation number. Ex: 460
-var ecs = ethlib.getEpochContextBin(460) // returns Object { }
+var ecs = ethlib.getEpochContextBin(460) // returns string of JSON
 var ec = JSON.parse(ecs)
 console.log("ectx:", ec)
 
